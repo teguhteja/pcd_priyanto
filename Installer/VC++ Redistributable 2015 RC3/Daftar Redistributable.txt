@@ -1,0 +1,2 @@
+https://www.visualstudio.com/license-terms/distributable-code-microsoft-visual-studio-2015-rc-microsoft-visual-studio-2015-sdk-rc-includes-utilities-buildserver-files/#concurrency
+[diakses 14 Juni 2017]

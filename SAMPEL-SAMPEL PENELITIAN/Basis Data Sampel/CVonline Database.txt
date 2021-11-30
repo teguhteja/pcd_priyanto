@@ -1,0 +1,37 @@
+Berikut ini adalah KUMPULAN SAMPEL SANGAT LENGKAP untuk penelitian Pengolahan Citra Digital dan Computer Vision
+Karena ukurannya sangat besar, maka hanya disertakan link-nya saja.
+Terima kasih kepada Bapak Iwan Awaludin, M.T. yang telah berbagi informasi ini
+Copyright ada pada pemilik dataset masing-masing.
+
+
+[1] http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
+[2] http://riemenschneider.hayko.at/vision/dataset/index.php
+
+Menu [1]: 
+Action Databases
+Attribute recognition
+Autonomous Driving
+Biological/Medical
+Camera calibration
+Face and Eye/Iris Databases
+Fingerprints
+General Images
+General RGBD and depth datasets
+General Videos
+Hand, Hand Grasp, Hand Action and Gesture Databases
+Image, Video and Shape Database Retrieval
+Object Databases
+People (static), human body pose
+People Detection and Tracking Databases (See also Surveillance)
+Remote Sensing
+Scene or Place Segmentation or Classification
+Segmentation
+Simultaneous Localization and Mapping
+Surveillance and Tracking (See also People)
+Textures
+Urban Datasets
+Other Collection Pages
+Miscellaneous Topics
+
+Menu [2]:
+Terdapat 382 dataset dengan berbagai kategori

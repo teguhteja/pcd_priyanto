@@ -1,0 +1,2 @@
+Daftar Codec yang disupport OpenCV
+http://opencv.willowgarage.com/wiki/VideoCodecs

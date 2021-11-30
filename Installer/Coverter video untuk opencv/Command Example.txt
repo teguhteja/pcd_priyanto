@@ -1,0 +1,17 @@
+Format i420 (*.AVI) adalah salah satu format yang paling compatible dengan OpenCV.
+Jika video Anda tidak bisa dibuka dengan program berbasis OpenCV, gunakan mencoder.exe untuk menkonversi video tersebut.
+
+Ikuti langkah-langkah berikut:
+1. Ekstrak mplayer-svn-37940-x86_64.7z dengan 7zip(http://www.7-zip.org/download.html)
+2. Install Program mplayer (yang didalamnya terkandung mencoder.exe)
+3. Letakkan video yang akan dikonversi pada folder yang sama dengan mencoder.exe.
+4. Jalankan CMD.exe pada folder menncoder.exe
+5. Jalankan perintahnya. Opsi perintah lengkapnya ada di http://www.mplayerhq.hu/DOCS/HTML/en/menc-feat-selecting-codec.html
+   
+-----------------------------------------------------------------------------
+Contoh perintahnya adalah:
+mencoder inputVideo.avi -ovc raw -vf format=i420 -o convertedVideo.avi -nosound
+
+Contoh perintah lainnya adalah:
+mencoder plane_25fps.mpg -ovc raw -vf format=i420 -o convertedVideo.avi -oac mp3lame
+
